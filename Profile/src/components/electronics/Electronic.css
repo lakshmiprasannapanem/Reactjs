@@ -1,0 +1,48 @@
+.electronicContainer{
+    padding: 30px;
+}
+.electronicContainer h2{
+    color: green;
+    font-size: 37px;
+}
+.electronicContainer p{
+    margin: 20px 0px;
+    font-size: 19px;
+}
+.electronicBgImage{
+    width: 1150px;
+    height: 300px;
+    background-image: url("https://m.media-amazon.com/images/I/614xIMTTU4L._AC_UF1000,1000_QL80_.jpg");
+    
+    margin: 30px auto;
+    
+}
+.electronicBgImage{
+width:1200px ;
+height:400px ;
+margin: 20px auto;
+/* background-color: aqua; */
+background-image: none;
+animation-name: changeBgImages;
+animation-duration: 15s;
+animation-delay: 2s;
+animation-iteration-count: infinite;
+background-image: url("https://m.media-amazon.com/images/I/614xIMTTU4L._AC_UF1000,1000_QL80_.jpg");
+}
+@keyframes changeBgImages{
+10%{
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/Wireless/nbshagun/JUPITER/NCEMI/KING-OF-ALL-DEALS2.gif");
+}
+50%{
+    background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/d7a7d1e8-14fe-45ec-a400-91adda313111._CR0,95,2000,1047_SX810_QL70_.jpg");
+}
+50%{
+    background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/17f7e94a-68be-4ebb-8d5b-8f69059e92e2._CR0,0,1200,628_SX810_QL70_.jpg");
+}
+70%{
+    background-image: url("https://m.media-amazon.com/images/I/51sffJVxsRL._AC_UY327_FMwebp_QL65_.jpg");
+}
+100%{
+    background-image: url("https://m.media-amazon.com/images/I/61FtJqwjaPL._AC_UY327_FMwebp_QL65_.jpg");
+}
+}

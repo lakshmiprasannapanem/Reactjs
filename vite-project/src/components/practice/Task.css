@@ -1,0 +1,15 @@
+.containerTask{
+    margin-top: 50px;
+    box-shadow: 0 0 10px green;
+    width: 500px;
+    padding: 20px;
+    margin: 100px auto;
+    text-align: center;
+    
+    
+}
+.containerTask div{
+      margin-bottom:20px;
+      margin-top:20px ;
+      justify-content: space-evenly;
+}

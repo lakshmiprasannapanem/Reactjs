@@ -1,0 +1,25 @@
+.profileCont{
+    width: 800px;
+    height: 400px;
+    box-shadow: 0 0 10px black;
+    margin: 50px auto;
+    display: flex;
+}
+.left{
+    /* background-color: aqua; */
+    width: 40%;
+}
+.right{
+    /* background-color: rgb(85, 188, 16); */
+    width: 60%;
+    padding: 20px;
+}
+dt{
+    margin-top: 10px;
+}
+.genderContainer{
+    display: flex;
+    margin-top: 10px;
+    width: 200px;
+    justify-content: space-evenly;
+}

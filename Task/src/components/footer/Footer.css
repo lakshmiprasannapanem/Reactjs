@@ -1,0 +1,31 @@
+/* .Post{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+     */
+/* } */
+.Footeer{
+    
+    padding: 30px;
+    display: flex;
+    margin: 20px;
+    background-color: black;  
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.post{
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+ justify-content: center;
+ justify-content: space-around;
+
+  
+}
+.gal{
+    display: flex;
+   justify-content: space-around;
+}

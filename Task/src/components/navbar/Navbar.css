@@ -1,0 +1,44 @@
+.navbar{
+    
+    background-color: beige;
+    display: flex;    
+}
+.title h1{
+    color:black;
+    font-size: xx-large;
+    margin-left: 50px;
+}
+.title h3{
+    font-weight: lighter;
+    color: black;
+    font: 1em sans-serif;
+    margin-left: 50px;
+}
+.a {
+    width: 60%;
+    align-items: center;
+    display: flex;
+    padding-left: 20%;
+    color: black;
+ text-decoration: none;
+ 
+
+}
+   .a a{
+  color: black;
+ text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 40px;
+
+}
+.title{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+} 
+
+
+
+

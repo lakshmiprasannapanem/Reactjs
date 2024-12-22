@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .counter{
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    width: 300px;
+    /* height: 20px; */
+    margin: 50px auto;
+    padding: 50px;
+
+}
+    </style>
+   <script>
+  function  fnInCount(){
+ var h2DomElement=document.querySelector("h2");
+ h2DomElement.innerText=parseInt(h2DomElement.innerText) + 1;
+
+  }
+   </script> 
+</head>
+<body>
+   <div>
+    <div class="counter">
+ <h2>0</h2><br/>
+ <button onclick="fnInCount()">InCount</button>
+    </div>
+   </div> 
+</body>
+</html>

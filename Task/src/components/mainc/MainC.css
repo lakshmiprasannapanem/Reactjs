@@ -1,0 +1,52 @@
+.win{
+    
+    background-image: url("https://static.vecteezy.com/system/resources/previews/034/575/973/non_2x/rustic-tabletop-with-book-arrangement-product-display-scene-ai-generated-photo.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* background-size: 100%; */
+    color: white;
+    font-weight: lighter;
+    font-size: larger;
+    /* height: 300px; */
+    width: 100%;
+   padding-right: 30px;
+    /* margin-right: 100px; */
+    display: flex;
+    margin: 20px;
+    padding: 30px;
+    
+}
+.win h1{
+    font-size:large;
+}
+.h3-win2{
+    /* padding-right: 40px; */
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+        margin-left: 80px;
+}
+.h3-win{
+    /* padding-right: 40px; */
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+        margin-left: 80px;
+}
+.h3-win1{
+    padding-right: 40px;
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+        margin-left: 80px;
+        /* margin-top: 60px; */
+}
+.h3-win3{
+    padding-right: 40px;
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+        margin-left: 80px;
+        /* margin-top: 60px; */
+}

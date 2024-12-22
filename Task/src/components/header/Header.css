@@ -1,0 +1,27 @@
+
+.container{
+   padding: 30px;
+   margin: 20px;
+   
+}
+ .container button{
+ justify-content: center;
+ }
+ .h2{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/044/150/440/small/abstract-luxury-blur-dark-grey-and-black-gradient-free-photo.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-attachment: fixed;
+    background-size: 180%;
+    color: white;
+      font-weight: lighter;
+      font-size: small;
+    height: 300px;
+    width: 100%;
+    padding: 30px;
+    margin-right: 80px;
+    
+ }
+ .h2 .p{
+    font-weight: lighter;
+ }

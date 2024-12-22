@@ -1,0 +1,47 @@
+.electronicContainer{
+    padding: 30px;
+}
+.electronicContainer h2{
+    color: green;
+    font-size: 37px;
+}
+.electronicContainer p{
+    margin: 20px 0px;
+    font-size: 19px;
+}
+.electronicBgImage{
+    width: 1150px;
+    height: 300px;
+    background-color: greenyellow;
+    
+    margin: 30px auto;
+    
+}
+.electronicBgImage{
+width:1200px ;
+height:400px ;
+margin: 20px auto;
+/* background-color: aqua; */
+background-image: none;
+animation-name: changeBgImages;
+animation-duration: 15s;
+animation-delay: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes changeBgImages{
+10%{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/041/414/336/small/gradient-background-with-colorful-lines-vector.jpg");
+}
+50%{
+    background-image: url("https://i.pinimg.com/originals/94/9b/af/949bafc707d608f1b630d0533b7a5bfc.jpg");
+}
+50%{
+    background-image: url("https://w0.peakpx.com/wallpaper/990/262/HD-wallpaper-decent-heart-comment-i-dnt-mind-coz-its-4som1-rate-my-upload-as-u-wish.jpg");
+}
+70%{
+    background-image: url("https://thumbs.dreamstime.com/b/seamless-beautiful-d-wallpaper-walls-to-decorateyour-room-decent-manner-versatile-option-decorating-offering-wide-326801763.jpg");
+}
+100%{
+    background-image: url("https://e0.pxfuel.com/wallpapers/324/421/desktop-wallpaper-mount-fuji-iphone-decent-nature-background-phone-thumbnail.jpg");
+}
+}

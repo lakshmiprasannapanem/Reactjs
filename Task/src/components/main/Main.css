@@ -1,0 +1,22 @@
+.feature-item{
+    padding-right: 40px;
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+    /* box-shadow: 0 0 30px greenyellow; */
+    margin-left: 40px;
+    
+}
+.feature-item i{
+    font-size: xx-large;
+}
+.feature-item1{
+    padding-right: 40px;
+    display: inline-block;
+    width: 350px;
+    justify-items: center;
+        margin-left: 40px;
+}
+.feature-item1 i{
+    font-size: xx-large;
+}

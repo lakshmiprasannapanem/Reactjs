@@ -1,0 +1,12 @@
+ var h2Styles={
+    color:"green"
+ };
+ function Main(){
+    return (
+        <div style={{padding:"50px"}}>
+            <h2 style={h2Styles}>React Concepts</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet veritatis accusantium ut facilis ad reiciendis laudantium nisi dolor! Cum, quisquam fuga et esse reprehenderit excepturi praesentium animi facilis libero earum qui repellendus asperiores molestias explicabo quos itaque dolore ea culpa officiis a, quis rerum error? Nesciunt inventore necessitatibus eligendi omnis! Qui est fugit nisi incidunt velit voluptate doloribus adipisci. Perferendis nemo temporibus nobis ad accusamus quae veniam, magni obcaecati vitae? Excepturi ab omnis, adipisci, maiores, in voluptatibus eligendi natus officiis ullam dicta molestias. Ad officiis facilis repudiandae sint omnis suscipit architecto voluptas illum qui laboriosam consequuntur non ipsam obcaecati rem dicta, accusantium nostrum. At qui voluptate quisquam atque aut voluptas adipisci molestias corporis ea, quaerat nobis tempora cum illum eius iste! Neque rerum saepe asperiores provident quo consectetur ad repellat iusto eos laborum officiis, nemo rem libero voluptate delectus iste facere doloribus nesciunt totam? Explicabo iusto veritatis necessitatibus minus dolorem labore maiores atque eum aliquam facere quod neque, iste deserunt commodi provident illum doloremque dignissimos illo est aut iure quia? Illo, animi? Excepturi blanditiis ut id laborum iste saepe necessitatibus fuga tenetur. Fugiat obcaecati accusantium ullam officiis, suscipit accusamus ducimus nobis natus quidem a quos consequatur deserunt, voluptatibus vel, provident eaque quam recusandae delectus atque cumque aliquid perspiciatis cupiditate. Sequi sed asperiores velit rem? Repellat, expedita? Impedit aliquid dolorem minima vero laboriosam, deserunt molestiae incidunt? Soluta, dicta molestias repudiandae aliquam ut vero inventore molestiae earum maiores blanditiis nisi est tempora odit cumque totam veritatis quis id sunt incidunt. Aperiam, quibusdam fugit rem quos ducimus, sapiente, laborum consequatur nihil sed maiores nulla magnam nam architecto perferendis veniam numquam autem tenetur! Iure enim mollitia ea reprehenderit est cumque praesentium repellendus quis sint. Recusandae cum quia repudiandae doloribus velit et magnam deserunt quaerat, ad tempora. Placeat quis, repudiandae beatae natus molestias numquam quam.</p>
+        </div>
+    )
+}
+ export default Main;

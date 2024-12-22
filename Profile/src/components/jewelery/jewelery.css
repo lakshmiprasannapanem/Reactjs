@@ -1,0 +1,42 @@
+.jeweleryBgImage{
+    
+        margin: 20px 0px;
+        font-size: 19px;
+}
+    .jeweleryBgImage{
+        width: 1150px;
+        height: 300px;
+        background-color: aqua;
+        /* background-image: url("https://m.media-amazon.com/images/I/614xIMTTU4L._AC_UF1000,1000_QL80_.jpg"); */
+        
+   margin: 30px auto;jewelery{
+    width:1200px ;
+    height:400px ;
+    margin: 20px auto;
+    /* background-color: aqua; */
+    background-image: none;
+    animation-name: changeBgImages;
+    animation-duration: 15s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    background-image: url("");
+        }
+    }
+    @keyframes changeBgImages{
+        10%{
+            background-image: url("");
+        }
+        50%{
+            background-image: url("");
+        }
+        50%{
+            background-image: url("");
+        }
+        70%{
+            background-image: url("");
+        }
+        100%{
+            background-image: url("");
+        }
+        }
+   

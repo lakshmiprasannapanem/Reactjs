@@ -1,0 +1,45 @@
+.navbar{
+    height: 70px;
+    background-color: black;
+    display: flex;
+    
+}
+
+.title h1{
+    color:violet;
+   
+    
+}
+.a {
+    /* background-color: red; */
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+   .a a{
+  color: chartreuse;
+    text-decoration: none;
+    margin-right: 50px;
+   
+
+    
+}
+.title{
+    width: 40%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.nextlinks a,
+.nextlinks{
+    width: 20;
+    display: flex;
+   color: white;
+    align-items: center; 
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
